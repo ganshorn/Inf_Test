@@ -1,4 +1,10 @@
 class Test
 {
-  // lösche diese Klasse
+  // loesche diese Klasse
+  int x;
+  
+  Test()
+  {
+      x=10;
+  }
 }
